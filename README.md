@@ -20,6 +20,9 @@ rails s
 https://docs.google.com/spreadsheets/d/1aoCHZ-HufQ9y2ve0CaFOMIBjRvRhCVTPRAV72SIx9v4/edit?usp=sharing
 # ER図
 https://drive.google.com/file/d/1rWb-7u5vkd_HVdrOdZusEx9mGLEvnSZJ/view?usp=sharing
+<img width="733" alt="スクリーンショット 2021-12-12 19 29 07" src="https://user-images.githubusercontent.com/87816144/145708886-07c5988f-c686-4a5d-8516-f0b7dc6c07e9.png">
+
+
 # ワイヤーフレーム
 https://drive.google.com/file/d/1iZqZ69sJZr-Pc8IjJeYL39o5H2kTpEIc/view?usp=sharing
 # 画面遷移図
