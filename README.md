@@ -27,3 +27,5 @@ https://drive.google.com/file/d/1rWb-7u5vkd_HVdrOdZusEx9mGLEvnSZJ/view?usp=shari
 https://drive.google.com/file/d/1iZqZ69sJZr-Pc8IjJeYL39o5H2kTpEIc/view?usp=sharing
 # 画面遷移図
 https://drive.google.com/file/d/1uNwznhfgCX2CMSVeq-R_222WITBoj4bC/view?usp=sharing
+<img width="1057" alt="スクリーンショット 2021-12-12 19 31 18" src="https://user-images.githubusercontent.com/87816144/145708922-245cb4c5-1a50-4197-9db8-45776d82b6f4.png">
+
