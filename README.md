@@ -18,6 +18,8 @@ rails db:create && rails db:migrate
 rails s
 # カタログ設計　＆　テーブル定義書
 https://docs.google.com/spreadsheets/d/1aoCHZ-HufQ9y2ve0CaFOMIBjRvRhCVTPRAV72SIx9v4/edit?usp=sharing
+# ER図
+https://drive.google.com/file/d/1rWb-7u5vkd_HVdrOdZusEx9mGLEvnSZJ/view?usp=sharing
 # ワイヤーフレーム
 https://drive.google.com/file/d/1iZqZ69sJZr-Pc8IjJeYL39o5H2kTpEIc/view?usp=sharing
 # 画面遷移図
