@@ -20,7 +20,8 @@ rails s
 https://docs.google.com/spreadsheets/d/1aoCHZ-HufQ9y2ve0CaFOMIBjRvRhCVTPRAV72SIx9v4/edit?usp=sharing
 # ER図
 https://drive.google.com/file/d/1rWb-7u5vkd_HVdrOdZusEx9mGLEvnSZJ/view?usp=sharing
-![スクリーンショット 2021-12-13 18 42 45](https://user-images.githubusercontent.com/87816144/145788679-ec8dd8ca-0b98-4517-b987-25f03a53a7a8.png)
+![スクリーンショット 2021-12-13 19 51 57](https://user-images.githubusercontent.com/87816144/145799591-ab7319db-89b9-47b7-9881-51eefcc00220.png)
+
 
 
 
