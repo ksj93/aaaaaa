@@ -20,7 +20,7 @@ rails s
 https://docs.google.com/spreadsheets/d/1aoCHZ-HufQ9y2ve0CaFOMIBjRvRhCVTPRAV72SIx9v4/edit?usp=sharing
 # ER図
 https://drive.google.com/file/d/1rWb-7u5vkd_HVdrOdZusEx9mGLEvnSZJ/view?usp=sharing
-<img width="618" alt="スクリーンショット 2021-12-12 19 37 54" src="https://user-images.githubusercontent.com/87816144/145709116-94d9a319-ae95-4e28-8cb4-6babf7c75705.png">
+<img width="661" alt="スクリーンショット 2021-12-13 16 03 35" src="https://user-images.githubusercontent.com/87816144/145767055-c44bbc65-e9f0-42dc-a0d2-d9f33c06e90d.png">
 
 
 # ワイヤーフレーム
