@@ -7,9 +7,8 @@ RAILS 6.1.4.1
 # 就職termの技術  
 devise  
 ajax  
-aws
 # カリキュラム外の技術  
-docker
+
 # 実行手順
 git clone git@github.com:ootsukasyouya/bwph.git  
 cd bwph  
