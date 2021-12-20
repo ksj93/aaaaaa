@@ -4,6 +4,9 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '3.0.1'
 
 gem 'enum_help'
+gem 'devise'
+gem 'rexml'
+gem 'devise-i18n'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.4', '>= 6.1.4.1'
@@ -29,9 +32,6 @@ gem 'jbuilder', '~> 2.7'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
-
-gem 'devise'
-gem 'rexml'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
