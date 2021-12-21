@@ -7,5 +7,5 @@ class User < ApplicationRecord
          :recoverable, :rememberable, :validatable
 
   validates :name, presence: true
-  validates :profile, length: {  minimum: 1, maximum: 100 }
+  # validates :profile, length: {  minimum: 1, maximum: 100 }
 end
