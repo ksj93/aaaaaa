@@ -7,6 +7,8 @@ gem 'enum_help'
 gem 'devise'
 gem 'rexml'
 gem 'devise-i18n'
+gem 'rails_admin'
+gem 'cancancan'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.4', '>= 6.1.4.1'
