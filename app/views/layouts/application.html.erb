@@ -12,10 +12,17 @@
 
   <body>
     <% if user_signed_in? %>
-      <%= link_to "ログアウト", destroy_user_session_path, method: :delete %>
+      <%= link_to "ユーザーログアウト", destroy_user_session_path, method: :delete %>
     <% else %>
-      <%= link_to "新規登録", new_user_registration_path %>
-      <%= link_to "ログイン", new_user_session_path %>
+      <%= link_to "ユーザー新規登録", new_user_registration_path %>
+      <%= link_to "ユーザーログイン", new_user_session_path %>
+    <% end %>
+
+    <% if store_signed_in? %>
+      <%= link_to "お店ログアウト", destroy_store_session_path, method: :delete %>
+    <% else %>
+      <%= link_to "お店新規登録", new_store_registration_path %>
+      <%= link_to "お店ログイン", new_store_session_path %>
     <% end %>
 
     <%= yield %>
